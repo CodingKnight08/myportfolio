@@ -10,7 +10,7 @@ const NavBar     = () => {
     <nav className="bg-white shadow-md">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <div className="text-2xl font-bold text-blue-600">
-          MyApp
+          PORTFOLIO
         </div>
 
         <div className="hidden md:flex space-x-6">
